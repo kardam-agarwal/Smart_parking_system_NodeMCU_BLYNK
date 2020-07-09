@@ -1,4 +1,4 @@
-# Smart_parking_system_NodeMCU_BLYNK_IFTTT_Thingspeak
+# Smart_Parking_System_NodeMCU_BLYNK
 
 A smart parking system is made using NodeMCU, IR Sensors and LEDs.
 We will use Infrared Sensor to detect empty slots and then send notification using email(Blynk email service). 
